@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+div#addVideoModal {
+	font-size: 3px;
+}
+
+nav > div {
+	height: 6vh;
+}
+
+div.form-control {
+	color: #ffffff;
+}
+
+nav {
+	width: 50vw;
+}
+
+section.container {
+	height: 83vh;
+	width: 100vw;
+	justify-content: center;
+}
+
+section#container {
+	height: 100%
+}
+
+section#videos {
+	height: 100%;
+}
+
+section#registry {
+	height: 100%
+}
